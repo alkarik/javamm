@@ -11,5 +11,7 @@
 
     <artifactId>temp</artifactId>
 
+    <properties>
+    </properties>
 
 </project>
